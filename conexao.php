@@ -3,7 +3,7 @@
 //ambiente marcosvirgilio.online
 $servername = '127.0.0.1';
 $username = 'root';
-$password = 'rootroot';
+$password = 'root';
 $dbname = 'pesagemsilo';
 
 // Create connection
